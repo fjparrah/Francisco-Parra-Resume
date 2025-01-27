@@ -50,17 +50,17 @@ Certificaciones relevantes:
 
 ## 🚀 **Proyectos Destacados**  
 
-### **Optimización de Logística de Entregas**  
-- Diseñé un modelo de análisis predictivo para optimizar rutas, reduciendo tiempos de entrega en un 15%.  
-- Código disponible en GitHub: [Optimización de Rutas](https://github.com/franciscojavier/optimizacion-rutas).  
+### **Star Wars API**  
+- Diseñé una pagina web con la lectura de API de personajes de StarWars y otra API que entrega las fotografias de los personajes para generar una carta:  
+- Código disponible en GitHub: [Cards Blog Starwars](https://github.com/fjparrah/4geeks-cards-blog-starwars).  
 
-### **Dashboard de KPIs en Power BI**  
+### **Dashboard de KPIs en Power BI **  
 - Creé un dashboard interactivo para monitorear métricas operativas en tiempo real.  
 - Incluye análisis de entregas fallidas, organización de flotas y logística inversa.  
 
-### **Automatización de Reportes de Inventario**  
-- Desarrollé un script en Python para generar reportes automáticos de inventarios, reduciendo tiempos de generación en un 50%.  
-- Código disponible en GitHub: [Automatización de Inventarios](https://github.com/franciscojavier/inventarios-automation).  
+### **Portafolio Vite en GITHUB**  
+- Adapte un template en Vite para portfolio 3D  
+- Código disponible en GitHub: [Portfolio](https://github.com/franciscojavier/inventarios-automation).  
 
 ---
 
