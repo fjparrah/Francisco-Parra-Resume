@@ -1,5 +1,4 @@
 ## Hi there 👋 This is a Francisco Parra Resume
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0366d6&lines=Hello+World!;Bienvenido+a+mi+perfil+de+GitHub!;Innovación+y+Análisis+de+Datos!" />
 </p>
@@ -9,7 +8,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)  ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-orange) ![SQL](https://img.shields.io/badge/SQL-Database%20Management-brightgreen)
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Working on Data">  
+<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Working on Data">  
 
 ---
 
