@@ -8,8 +8,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)  ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-orange) ![SQL](https://img.shields.io/badge/SQL-Database%20Management-brightgreen)
 
-<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Working on Data">  
-
+<p align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Working on Data">  
+</p>
 ---
 
 ## 💼 **Experiencia Profesional**  
