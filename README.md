@@ -80,7 +80,7 @@ Certificaciones relevantes:
 ---
 
 ## 🌟 **Intereses**  
-- Innovación tecnológica en logística.  
+- Innovación tecnológica.  
 - Visualización de datos y storytelling.  
 - Desarrollo de soluciones basadas en datos para la toma de decisiones.  
 
