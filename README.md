@@ -31,20 +31,34 @@
 
 ## 📚 **Educación**  
 
-**Ingeniería en Logística y Transporte**  
-Universidad de Santiago de Chile (2013 - 2017)  
+**Magister en Innovación**  
+Pontificia Universidad Catolica de Chile (2021 - 2023) 
+
+**Diplomado en Logística**  
+Pontificia Universidad Catolica de Chile (2016 - 2017) 
+
+**Ingeniería Civil Industrial**  
+Universidad del Mar (2010 - 2013) 
+
+**Ingeniería Civil en Informática**  
+Pontificia Universidad Catolica de Chile (2003 - 2009) 
 
 Certificaciones relevantes:  
-- **Data Science Professional Certificate** - IBM (2022)  
-- **Especialización en Power BI** - Microsoft (2021)  
-
+- **Desarrollador FullStack** - 4 Geeks Academy (2023)  
+- **SCRUM Master** - AgileChile (2023)
+- **Design Thinking** - AgileChile (2022)
+- **SQL para analisis de datos** - Desafio LATAM (2022)
+- **Data Analys** - Coderhouse (2022)
+- **Coaching en comunicación y liderazgo** - SpeakerCoach (2022)
+- **Inglés Intermedio, niveles B2 al I4** - Instituto Chileno-norteamericano La Serena (2020 2021)
+  
 ---
 
 ## 🛠️ **Habilidades Técnicas**  
-- **Lenguajes:** Python, SQL, R  
+- **Lenguajes:** Python, SQL, R,  Javascript, React
 - **Herramientas:** Power BI, Tableau, Excel avanzado  
 - **Bases de datos:** MySQL, PostgreSQL, MongoDB  
-- **Metodologías:** Agile, Lean Logistics  
+- **Metodologías:** Agile, Lean Startup, Running Lean, Design Thinking  
 
 ---
 
