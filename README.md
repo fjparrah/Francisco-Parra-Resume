@@ -5,7 +5,7 @@
 </p>
 
 **Especialista en Innovación, Análisis de Datos y Logística**  
-[LinkedIn]([https://linkedin.com/in/franciscojavier](https://www.linkedin.com/in/francisco-parra-hermosilla/)) | [GitHub](https://github.com/franciscojavier) | [Email](mailto:franciscojavier@example.com)  
+[LinkedIn](https://www.linkedin.com/in/francisco-parra-hermosilla/) | [GitHub](https://github.com/franciscojavier) | [Email](mailto:franciscojavier@example.com)  
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)  ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-orange) ![SQL](https://img.shields.io/badge/SQL-Database%20Management-brightgreen)
 
